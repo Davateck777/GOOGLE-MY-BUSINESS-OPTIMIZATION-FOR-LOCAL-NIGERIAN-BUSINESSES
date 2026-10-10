@@ -31,3 +31,7 @@ The homepage contains an H2 paragraph and editorial link for each hub. Each cate
 ## Notes
 
 The site does not invent a Google rating or testimonials. It uses the supplied Google review link as a review CTA. The location map uses the supplied address and links to the supplied public GBP profile. The XML sitemap uses relative paths because no production website domain was supplied; replace them with absolute URLs before submission.
+
+## Supporting content
+
+The site now includes a question-led supporting-content hub at `guides/index.html` plus nine detailed guides. Compact FAQ blocks on all 28 Core pages link to those guides, and each guide links back to the relevant service/category pages. The implementation report is in `SUPPORTING_CONTENT_REPORT.md`.
