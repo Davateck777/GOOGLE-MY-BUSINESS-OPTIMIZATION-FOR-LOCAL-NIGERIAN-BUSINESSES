@@ -35,3 +35,7 @@ The site does not invent a Google rating or testimonials. It uses the supplied G
 ## Supporting content
 
 The site now includes a question-led supporting-content hub at `guides/index.html` plus nine detailed guides. Compact FAQ blocks on all 28 Core pages link to those guides, and each guide links back to the relevant service/category pages. The implementation report is in `SUPPORTING_CONTENT_REPORT.md`.
+
+## Geographic content
+
+A geographic service-area hub is available at `locations/index.html` with six pilot pages for real Ibadan and Lagos geographic anchors. These pages are not additional GBP locations or offices; they are local-context pages linking to relevant service pages. The implementation report is in `GEOGRAPHIC_CONTENT_REPORT.md`.
